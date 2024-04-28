@@ -6,7 +6,7 @@ export default {
   formatVersion: 26,
   namespace: "lcg_rng",
   packUid: "6LEZtrPb",
-  saveOptions: { path: "./.sandstone/output/datapack" },
+  saveOptions: { path: "./output/datapack" },
   onConflict: {
     default: "warn",
   },
