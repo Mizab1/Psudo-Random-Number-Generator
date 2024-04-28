@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": [
+      "A Datapack by ",
+      {
+        "text": "Mizab",
+        "color": "gold"
+      },
+      " created with ",
+      {
+        "text": "Sandstone",
+        "color": "gold"
+      }
+    ]
+  }
+}

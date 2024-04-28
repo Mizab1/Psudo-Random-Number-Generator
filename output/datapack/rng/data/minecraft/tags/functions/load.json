@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "lcg_rng:__init__",
+    "lcg_rng:_load_lcg"
+  ]
+}
