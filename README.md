@@ -23,8 +23,7 @@ MCFunction("test_rng_lcg", () => {
 ```
 
 ## Dependencies
-- Sandstone: This project is dependent on the Sandstone framework, which allows the creation of Minecraft functions with TypeScript.
-License
+- **Sandstone**: This project is dependent on the Sandstone framework, which allows the creation of Minecraft functions with TypeScript.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
